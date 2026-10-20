@@ -1,0 +1,63 @@
+[
+  {
+    "0": {
+      "title": "Aetheric NLP Assistant",
+      "description": "An AI-powered natural language processing tool that performs abstractive summarization, entity recognition, and sentiment classification using lightweight LLM fine-tuning. Built with an interactive streaming dashboard for instant response analysis.",
+      "category": "AI/ML",
+      "technologies": [
+        "React.js",
+        "Python",
+        "PyTorch",
+        "FastAPI",
+        "Tailwind CSS"
+      ],
+      "githubLink": "https://github.com/developerstudent/aetheric-nlp",
+      "liveLink": "https://aetheric-nlp.demo.dev",
+      "primaryImage": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&auto=format&fit=crop&q=60",
+      "screenshots": [
+        "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&auto=format&fit=crop&q=60"
+      ],
+      "docFile": ""
+    },
+    "1": {
+      "title": "Nexus Cloud DevOps Control",
+      "description": "A beautiful cloud management console designed for engineering students to monitor Kubernetes clusters, check Docker logs, and deploy static websites using single-click webhooks. Incorporates real-time Prometheus statistics and graphs.",
+      "category": "Cloud & DevOps",
+      "technologies": [
+        "Next.js",
+        "Node.js",
+        "Docker",
+        "Kubernetes",
+        "Prometheus",
+        "Redis"
+      ],
+      "githubLink": "https://github.com/developerstudent/nexus-cloud",
+      "liveLink": "https://nexus-devops.demo.dev",
+      "primaryImage": "https://images.unsplash.com/photo-1600132806370-bf17e65e942f?w=800&auto=format&fit=crop&q=60",
+      "screenshots": [
+        "https://images.unsplash.com/photo-1664575198308-3959904fa430?w=800&auto=format&fit=crop&q=60"
+      ],
+      "docFile": ""
+    },
+    "2": {
+      "title": "Synapse Distributed Database",
+      "description": "A lightweight, high-performance in-memory key-value database built from scratch to study TCP/IP sockets, buffer pool management, and index search algorithms. Includes custom clustering replication protocols.",
+      "category": "Backend",
+      "technologies": [
+        "C++",
+        "Go",
+        "Redis",
+        "Docker",
+        "Linux Shell"
+      ],
+      "githubLink": "https://github.com/developerstudent/synapse-db",
+      "liveLink": "",
+      "primaryImage": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=800&auto=format&fit=crop&q=60",
+      "screenshots": [],
+      "docFile": ""
+    },
+    "_id": "mpo3rm4qidnbc",
+    "createdAt": "2026-05-27T13:31:23.978Z"
+  }
+]

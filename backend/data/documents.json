@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "mpo81q3cvvv37",
+    "createdAt": "2026-05-27T15:31:14.136Z",
+    "title": "Narendra verma resume ",
+    "category": "Resume",
+    "description": "Tap to download resume ",
+    "fileUrl": "/uploads/file-1779895874102-619260001.pdf",
+    "fileType": "application/pdf"
+  },
+  {
+    "_id": "mpo8iq28wj2tf",
+    "createdAt": "2026-05-27T15:44:27.248Z",
+    "title": "cert 1",
+    "category": "Certificate",
+    "description": "this is certificate to use the ",
+    "fileUrl": "/uploads/file-1779896667163-140112445.pdf",
+    "fileType": "application/pdf"
+  }
+]
